@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Movie Suggestions Web App](https://github.com/Zizou456/Movies)
 
-- 🌱 I’m currently learning **Django, Pytorch, Java, C#**
+- 🌱 I’m currently learning **Django , Java, C#**
 
 - 👯 I’m looking for an **internship**
 
