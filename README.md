@@ -2,13 +2,10 @@
 <h3 align="center">A Software engineering student from Tunisia</h3>
 <br>
 
-- 🔭 I’m currently working on [Movie Suggestions Web App](https://github.com/Zizou456/Movies)
 
 - 🌱 I’m currently learning **Django , Java, C#**
 
-- 👯 I’m looking for an **internship**
-
-- 📫 How to reach me **Medazizazzabi@gmail.com**
+- 📫 How to reach me **medazizazzabi@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
