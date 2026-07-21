@@ -35,4 +35,4 @@ Currently focused on **DevOps and data engineering**: streaming pipelines, cloud
 
 ## 📫 Reach me
 
-[LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/medazizazzabi/)) · medazizazzabi@gmail.com · Based in Germany 🇩🇪
+[LinkedIn](https://linkedin.com/in/medazizazzabi) · medazizazzabi@gmail.com · Based in Germany 🇩🇪
