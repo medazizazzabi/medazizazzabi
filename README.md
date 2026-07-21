@@ -8,7 +8,7 @@ Currently focused on **DevOps and data engineering**: streaming pipelines, cloud
 
 ## 🔭 What I'm working on
 
-- **[Sentinel](https://github.com/YOUR_USERNAME/sentinel)** — Real-time fraud monitoring lakehouse: Kafka → PySpark Structured Streaming → Apache Iceberg on AWS S3, queried via Athena, with Grafana dashboards and live alerts. Fully containerized, one-command demo: `docker compose up`.
+- **[Sentinel](https://github.com/medazizazzabi/sentinel)** — Real-time fraud monitoring lakehouse: Kafka → PySpark Structured Streaming → Apache Iceberg on AWS S3, queried via Athena, with Grafana dashboards and live alerts. Fully containerized, one-command demo: `docker compose up`.
 - **Azifir POS platform** *(private — client production code)* — Python backend, Next.js frontend, deployed via Docker with zero-touch releases through GitHub Actions.
 
 ## 🛠️ Tech I work with
@@ -30,9 +30,9 @@ Currently focused on **DevOps and data engineering**: streaming pipelines, cloud
 
 ## 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_rank=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=medazizazzabi&show_icons=true&hide_rank=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medazizazzabi&layout=compact)
 
 ## 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · mohamedazizazzabi@gmail.com · Based in Germany 🇩🇪
+[LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/medazizazzabi/)) · medazizazzabi@gmail.com · Based in Germany 🇩🇪
